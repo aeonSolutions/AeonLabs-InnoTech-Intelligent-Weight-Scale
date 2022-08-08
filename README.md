@@ -1,5 +1,5 @@
 # AeonLabs InnoTech Intelligent Weight Scale
-This is a PCB made for a direct replacement of the one that is installed on all InnoTech Weight Scales. Features a color LCD and you can connect to your home automation wihout the need of third party cloud storage.  This way your health data never leaves your home.
+This is a PCB is being designed for a direct replacement of the one that is installed on all InnoTech Weight Scales. Features a color LCD and you can connect to your home automation wihout the need of third party cloud storage.  **This way your health data never leaves your home***.
 
 A breif view of the original specifications:
 
