@@ -1,2 +1,2 @@
-# AeonLabs-InnoTech-Intelligent-Weight-Scale
+# AeonLabs InnoTech Intelligent Weight Scale
 InnoTech Intelligent Weight Scale by AeonLabs
