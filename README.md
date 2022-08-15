@@ -6,11 +6,9 @@
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l6unzfyg9q2db2xgpphl" alt="trackgit-views" />
 </a>
-![](https://views.whatilearened.today/views/github/aeonSolutions/PCB-Prototyping-Catalogue.svg)
+![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale.svg)
 
 <br />
-
-
 
 # AeonLabs InnoTech Intelligent Weight Scale
 This is a PCB is being designed for a direct replacement of the one that is installed on all InnoTech Weight Scales. Features a color LCD and you can connect to your home automation wihout the need of third party cloud storage.  **This way your health data never leaves your home***.
