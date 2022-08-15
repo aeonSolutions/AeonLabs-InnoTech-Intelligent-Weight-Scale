@@ -1,3 +1,17 @@
+[![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
+ [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
+ [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
+ [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
+![](https://img.shields.io/github/last-commit/aeonSolutions/PCB-Prototyping-Catalogue?style=for-the-badge)
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l6unzfyg9q2db2xgpphl" alt="trackgit-views" />
+</a>
+![](https://views.whatilearened.today/views/github/aeonSolutions/PCB-Prototyping-Catalogue.svg)
+
+<br />
+
+
+
 # AeonLabs InnoTech Intelligent Weight Scale
 This is a PCB is being designed for a direct replacement of the one that is installed on all InnoTech Weight Scales. Features a color LCD and you can connect to your home automation wihout the need of third party cloud storage.  **This way your health data never leaves your home***.
 
