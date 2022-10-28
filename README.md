@@ -22,5 +22,5 @@ A breif view of the original specifications:
 
 ![](https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale/blob/main/innotechWieghtScaleAd.jpg)
 
-
-![](https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale/blob/main/desings/pcb_withlcd.jiff)
+## PCB
+![](https://github.com/aeonSolutions/AeonLabs-InnoTech-Intelligent-Weight-Scale/blob/main/designs/pcb_with_lcd.jfif)
